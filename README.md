@@ -1,2 +1,2 @@
 # Housing-Price-Predictions
-Tensorflow Neural Network to predict housing prices.
+Python notebook predicting housing prices using a Tensorflow neural network.
